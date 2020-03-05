@@ -79,7 +79,7 @@ function initQiNiu() {
 
 	            var token = res.uptoken;
 	            //var domain = res.domain;
-	            var domain = 'http://cdn.zghlj.wang';
+	            var domain = 'http://cdn.*****.****';
 	            var config = {
 	                useCdnDomain: true,
 	                disableStatisticsReport: false,
@@ -99,7 +99,7 @@ function initQiNiu() {
 
 
 //加载中图片
-var loadingImg = "http://cdn.zghlj.wang/20200107155347-HA4BNG-loading.gif";
+var loadingImg = "http://cdn.****.****/20200107155347-HA4BNG-loading.gif";
 
 
 //七牛上传方法
